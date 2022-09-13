@@ -1,0 +1,8 @@
+Id - UG_U 1.12
+Requirement # - R43
+Level of Fuctional test - Critical Path
+Module - Gallery
+Precondition - a non-empty file with special characters in the name was created
+Title - uploading a file to the gallery with special characters and in the title
+Discription - 
+Expected result - 
